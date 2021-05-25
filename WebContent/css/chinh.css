@@ -1,0 +1,43 @@
+body {
+	background-color: #F3F3F3;
+}
+table, td, th {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+
+    td.data {
+	color:  black;
+}
+		table.data {
+	color: black;
+}
+		th.data {
+	color: orange;
+}
+em.item_price {
+	color: white;
+	background-color: red;
+	padding: 2px 2px;
+}
+div.product-carousel{
+	height: 420px;
+}
+div.product-f-image{
+	border-color: #FFFFFF;
+}
+img {
+	border-color: #FFFFFF;
+}
+div.price{
+	color: black;
+}
+
+
